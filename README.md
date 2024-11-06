@@ -1,2 +1,2 @@
 # Motivational-Poster-Website
-Motivational-Poster-Website
+![poster](./poster.PNG)
